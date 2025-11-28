@@ -1,0 +1,9 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.Wordle.gen.cpp.obj": [
+			"Wordle.init.gen.cpp.obj",
+			"WordleLibrary.gen.cpp.obj"
+		]
+	}
+}

@@ -1,0 +1,18 @@
+[8108:26904:1127/113841.975:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[8108:26292:1127/113842.089:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[8108:26904:1127/113842.116:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[8108:26904:1127/113848.054:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
+[8108:26904:1127/113849.221:ERROR:device_event_log_impl.cc(196)] [11:38:49.189] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Élément introuvable. (0x490)
+[8108:26904:1127/115820.078:ERROR:device_event_log_impl.cc(196)] [11:58:20.018] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Élément introuvable. (0x490)
+[8108:26904:1127/115820.408:ERROR:device_event_log_impl.cc(196)] [11:58:20.106] USB: usb_service_win.cc:308 SetupDiEnumDeviceInterfaces: Aucune donnée n’est disponible. (0x103)
+[8108:26904:1127/115820.408:ERROR:device_event_log_impl.cc(196)] [11:58:20.244] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Élément introuvable. (0x490)
+[8108:26904:1127/115822.409:ERROR:device_event_log_impl.cc(196)] [11:58:22.258] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Élément introuvable. (0x490)
+[8108:26904:1127/121226.502:ERROR:device_event_log_impl.cc(196)] [12:12:26.490] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Élément introuvable. (0x490)
+[8108:26904:1127/123301.647:ERROR:device_event_log_impl.cc(196)] [12:33:01.477] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Élément introuvable. (0x490)
+[8108:26904:1127/123536.423:ERROR:device_event_log_impl.cc(196)] [12:35:36.102] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Élément introuvable. (0x490)
+[8108:26904:1127/124609.447:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[8108:26904:1127/125147.649:ERROR:device_event_log_impl.cc(196)] [12:51:47.563] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Élément introuvable. (0x490)
+[8108:26904:1127/161622.608:ERROR:device_event_log_impl.cc(196)] [16:16:22.514] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Élément introuvable. (0x490)
+[8108:26904:1127/161622.690:ERROR:device_event_log_impl.cc(196)] [16:16:22.668] USB: usb_service_win.cc:308 SetupDiEnumDeviceInterfaces: Aucune donnée n’est disponible. (0x103)
+[8108:26904:1127/161622.871:ERROR:device_event_log_impl.cc(196)] [16:16:22.862] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Élément introuvable. (0x490)
+[8108:26904:1127/163502.816:ERROR:device_event_log_impl.cc(196)] [16:35:02.807] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Élément introuvable. (0x490)

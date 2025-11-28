@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\kenzo\\Documents\\GitHub\\LETTERS_FRENZY\\Wordle\\Source\\Wordle\\Wordle.Build.cs",
+		"C:\\Users\\kenzo\\Documents\\GitHub\\LETTERS_FRENZY\\Wordle\\Source\\Wordle.Target.cs",
+		"C:\\Users\\kenzo\\Documents\\GitHub\\LETTERS_FRENZY\\Wordle\\Source\\WordleEditor.Target.cs"
+	],
+	"EngineVersion": "5.7.0"
+}

@@ -1,0 +1,34 @@
+[36360:17396:1127/111357.380:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[36360:17032:1127/111357.501:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[36360:17396:1127/111357.585:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[36360:17396:1127/111403.544:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
+[36360:17396:1127/111405.072:ERROR:device_event_log_impl.cc(196)] [11:14:05.019] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Élément introuvable. (0x490)
+[36360:17396:1127/111521.329:ERROR:device_event_log_impl.cc(196)] [11:15:21.311] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Élément introuvable. (0x490)
+[36360:17396:1127/111521.408:ERROR:device_event_log_impl.cc(196)] [11:15:21.379] USB: usb_service_win.cc:308 SetupDiEnumDeviceInterfaces: Aucune donnée n’est disponible. (0x103)
+[36360:17396:1127/111521.485:ERROR:usb_descriptors.cc(122)] Failed to read configuration descriptor.
+[36360:17396:1127/111521.485:ERROR:usb_descriptors.cc(105)] Failed to read all configuration descriptors. Expected 1, got 0.
+[36360:17396:1127/111521.486:ERROR:device_event_log_impl.cc(196)] [11:15:21.486] USB: usb_device_win.cc:95 Failed to read descriptors from \\?\usb#vid_046d&pid_c08b#176b32603031#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+[36360:17396:1127/111522.137:ERROR:device_event_log_impl.cc(196)] [11:15:22.061] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Élément introuvable. (0x490)
+[36360:17396:1127/111522.157:ERROR:usb_descriptors.cc(166)] Device descriptor parsing error.
+[36360:17396:1127/111522.158:ERROR:device_event_log_impl.cc(196)] [11:15:22.157] USB: usb_device_win.cc:95 Failed to read descriptors from \\?\usb#vid_046d&pid_c08b#176b32603031#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+[36360:17396:1127/111523.167:ERROR:device_event_log_impl.cc(196)] [11:15:23.075] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Élément introuvable. (0x490)
+[36360:17396:1127/111523.241:ERROR:device_event_log_impl.cc(196)] [11:15:23.227] USB: usb_service_win.cc:308 SetupDiEnumDeviceInterfaces: Aucune donnée n’est disponible. (0x103)
+[36360:17396:1127/111525.471:ERROR:device_event_log_impl.cc(196)] [11:15:25.437] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Élément introuvable. (0x490)
+[36360:17396:1127/111530.922:ERROR:device_event_log_impl.cc(196)] [11:15:30.900] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Élément introuvable. (0x490)
+[36360:17396:1127/111531.004:ERROR:device_event_log_impl.cc(196)] [11:15:30.978] USB: usb_service_win.cc:308 SetupDiEnumDeviceInterfaces: Aucune donnée n’est disponible. (0x103)
+[36360:17396:1127/111531.417:ERROR:device_event_log_impl.cc(196)] [11:15:31.388] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Élément introuvable. (0x490)
+[36360:17396:1127/111538.447:ERROR:device_event_log_impl.cc(196)] [11:15:38.332] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Élément introuvable. (0x490)
+[36360:17396:1127/111538.469:ERROR:usb_descriptors.cc(166)] Device descriptor parsing error.
+[36360:17396:1127/111538.469:ERROR:device_event_log_impl.cc(196)] [11:15:38.469] USB: usb_device_win.cc:95 Failed to read descriptors from \\?\usb#vid_046d&pid_c08b#176b32603031#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+[36360:17396:1127/111538.469:ERROR:device_event_log_impl.cc(196)] [11:15:38.448] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Élément introuvable. (0x490)
+[36360:17396:1127/111538.501:ERROR:device_event_log_impl.cc(196)] [11:15:38.490] USB: usb_service_win.cc:308 SetupDiEnumDeviceInterfaces: Aucune donnée n’est disponible. (0x103)
+[36360:17396:1127/111549.953:ERROR:device_event_log_impl.cc(196)] [11:15:49.932] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Élément introuvable. (0x490)
+[36360:17396:1127/111550.000:ERROR:device_event_log_impl.cc(196)] [11:15:49.998] USB: usb_service_win.cc:308 SetupDiEnumDeviceInterfaces: Aucune donnée n’est disponible. (0x103)
+[36360:17396:1127/111550.080:ERROR:usb_descriptors.cc(146)] Failed to read length for configuration 0.
+[36360:17396:1127/111550.080:ERROR:usb_descriptors.cc(105)] Failed to read all configuration descriptors. Expected 1, got 0.
+[36360:17396:1127/111550.081:ERROR:device_event_log_impl.cc(196)] [11:15:50.081] USB: usb_device_win.cc:95 Failed to read descriptors from \\?\usb#vid_046d&pid_c08b#176b32603031#{a5dcbf10-6530-11d2-901f-00c04fb951ed}.
+[36360:17396:1127/111550.081:ERROR:device_event_log_impl.cc(196)] [11:15:50.004] USB: usb_service_win.cc:308 SetupDiEnumDeviceInterfaces: Aucune donnée n’est disponible. (0x103)
+[36360:17396:1127/111550.961:ERROR:device_event_log_impl.cc(196)] [11:15:50.934] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Élément introuvable. (0x490)
+[36360:17396:1127/111551.012:ERROR:device_event_log_impl.cc(196)] [11:15:50.999] USB: usb_service_win.cc:308 SetupDiEnumDeviceInterfaces: Aucune donnée n’est disponible. (0x103)
+[36360:17396:1127/111551.213:ERROR:device_event_log_impl.cc(196)] [11:15:51.201] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Élément introuvable. (0x490)
+[36360:17396:1127/111553.324:ERROR:device_event_log_impl.cc(196)] [11:15:53.173] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Élément introuvable. (0x490)

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Wordle.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\WordleEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Source\Wordle">
+      <UniqueIdentifier>{C6C084F4-2D22-3F46-9F08-EB35B635A96C}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Wordle\Wordle.Build.cs">
+      <Filter>Source\Wordle</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Wordle\Wordle.cpp">
+      <Filter>Source\Wordle</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Wordle\Wordle.h">
+      <Filter>Source\Wordle</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Wordle\WordleLibrary.cpp">
+      <Filter>Source\Wordle</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Wordle\WordleLibrary.h">
+      <Filter>Source\Wordle</Filter>
+    </ClInclude>
+    <None Include="..\..\Wordle.uproject" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="cpp.hint" />
+  </ItemGroup>
+</Project>

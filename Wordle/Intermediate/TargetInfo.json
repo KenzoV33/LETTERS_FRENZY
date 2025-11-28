@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Wordle",
+			"Path": "..\\Source\\Wordle.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "WordleEditor",
+			"Path": "..\\Source\\WordleEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

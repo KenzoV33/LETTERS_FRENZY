@@ -1,0 +1,53 @@
+{
+  "version": 2,
+  "dgSpecHash": "D5znlmgqgZM=",
+  "success": false,
+  "projectFilePath": "C:\\Users\\kenzo\\Documents\\GitHub\\LETTERS_FRENZY\\Wordle\\Intermediate\\Build\\BuildRulesProjects\\WordleModuleRules\\WordleModuleRules.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Projet 'C:\\Users\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source\\Programs\\Shared\\EpicGames.Build\\EpicGames.Build.csproj' introuvable. Vérifiez que la référence de projet est valide et que le fichier projet existe.",
+      "projectPath": "C:\\Users\\kenzo\\Documents\\GitHub\\LETTERS_FRENZY\\Wordle\\Intermediate\\Build\\BuildRulesProjects\\WordleModuleRules\\WordleModuleRules.csproj",
+      "filePath": "C:\\Users\\kenzo\\Documents\\GitHub\\LETTERS_FRENZY\\Wordle\\Intermediate\\Build\\BuildRulesProjects\\WordleModuleRules\\WordleModuleRules.csproj",
+      "libraryId": "C:\\Users\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source\\Programs\\Shared\\EpicGames.Build\\EpicGames.Build.csproj",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Projet 'C:\\Users\\Program Files\\Epic Games\\UE_5.7\\Engine\\Intermediate\\Build\\BuildRulesProjects\\UE5ProgramRules\\UE5ProgramRules.csproj' introuvable. Vérifiez que la référence de projet est valide et que le fichier projet existe.",
+      "projectPath": "C:\\Users\\kenzo\\Documents\\GitHub\\LETTERS_FRENZY\\Wordle\\Intermediate\\Build\\BuildRulesProjects\\WordleModuleRules\\WordleModuleRules.csproj",
+      "filePath": "C:\\Users\\kenzo\\Documents\\GitHub\\LETTERS_FRENZY\\Wordle\\Intermediate\\Build\\BuildRulesProjects\\WordleModuleRules\\WordleModuleRules.csproj",
+      "libraryId": "C:\\Users\\Program Files\\Epic Games\\UE_5.7\\Engine\\Intermediate\\Build\\BuildRulesProjects\\UE5ProgramRules\\UE5ProgramRules.csproj",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Projet 'C:\\Users\\Program Files\\Epic Games\\UE_5.7\\Engine\\Intermediate\\Build\\BuildRulesProjects\\UE5Rules\\UE5Rules.csproj' introuvable. Vérifiez que la référence de projet est valide et que le fichier projet existe.",
+      "projectPath": "C:\\Users\\kenzo\\Documents\\GitHub\\LETTERS_FRENZY\\Wordle\\Intermediate\\Build\\BuildRulesProjects\\WordleModuleRules\\WordleModuleRules.csproj",
+      "filePath": "C:\\Users\\kenzo\\Documents\\GitHub\\LETTERS_FRENZY\\Wordle\\Intermediate\\Build\\BuildRulesProjects\\WordleModuleRules\\WordleModuleRules.csproj",
+      "libraryId": "C:\\Users\\Program Files\\Epic Games\\UE_5.7\\Engine\\Intermediate\\Build\\BuildRulesProjects\\UE5Rules\\UE5Rules.csproj",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Projet 'C:\\Users\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source\\Programs\\UnrealBuildTool\\UnrealBuildTool.csproj' introuvable. Vérifiez que la référence de projet est valide et que le fichier projet existe.",
+      "projectPath": "C:\\Users\\kenzo\\Documents\\GitHub\\LETTERS_FRENZY\\Wordle\\Intermediate\\Build\\BuildRulesProjects\\WordleModuleRules\\WordleModuleRules.csproj",
+      "filePath": "C:\\Users\\kenzo\\Documents\\GitHub\\LETTERS_FRENZY\\Wordle\\Intermediate\\Build\\BuildRulesProjects\\WordleModuleRules\\WordleModuleRules.csproj",
+      "libraryId": "C:\\Users\\Program Files\\Epic Games\\UE_5.7\\Engine\\Source\\Programs\\UnrealBuildTool\\UnrealBuildTool.csproj",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-Wordle.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:/Users/kenzo/Documents/Unreal Projects/Wordle/Intermediate/Build/Win64/x64/UnrealEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.obj"
+"C:/Users/kenzo/Documents/Unreal Projects/Wordle/Intermediate/Build/Win64/x64/UnrealEditor/Development/Wordle/Module.Wordle.gen.cpp.obj"
+"C:/Users/kenzo/Documents/Unreal Projects/Wordle/Intermediate/Build/Win64/x64/UnrealEditor/Development/Wordle/Wordle.cpp.obj"
+"C:/Users/kenzo/Documents/Unreal Projects/Wordle/Intermediate/Build/Win64/x64/UnrealEditor/Development/Wordle/WordleLibrary.cpp.obj"
+"C:/Users/kenzo/Documents/Unreal Projects/Wordle/Intermediate/Build/Win64/x64/UnrealEditor/Development/Wordle/PerModuleInline.gen.cpp.obj"
+"C:/Users/kenzo/Documents/Unreal Projects/Wordle/Intermediate/Build/Win64/x64/UnrealEditor/Development/Wordle/Default.rc2.res"
+/OUT:"C:/Users/kenzo/Documents/Unreal Projects/Wordle/Intermediate/Build/Win64/x64/UnrealEditor/Development/Wordle/UnrealEditor-Wordle.lib"
